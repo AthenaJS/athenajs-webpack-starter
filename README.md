@@ -13,5 +13,5 @@ The aim of this repository is to provide a template for developing [AthenaJS](ht
 * Download the files and place them in your project directory
 * Run `npm i` to install the dependencies
 * Run `npm run build` to build the project
-* Run `npm run dev` to build the project, start watching files and run the local server
+* Run `npm start` to build the project in dev mode, start watching files and run the local server
 * Run `npm test` to run the tests once
